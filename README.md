@@ -1,5 +1,5 @@
 # SuperMaths
-# 🧮 SuperMaths
+# 🧮 SuperMaths - https://supermaths.streamlit.app/
 
 A free, AI powered maths tutor for students in Grades 1–12. SuperMaths adapts to your level, generates unlimited practice questions, and provides instant hints; all powered by AI.
 
