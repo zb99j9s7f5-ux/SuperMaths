@@ -5,7 +5,8 @@
 SuperMaths adapts to your level, generates unlimited practice questions, and gives you instant step-by-step hints whenever you get stuck. No subscriptions, no ads, no question bank — just fresh AI-generated questions every time.
 
 🔗 **Live app:** [supermaths.streamlit.app](https://supermaths.streamlit.app/)
-
+Current version: v.1.2 official release
+Other versions: v.1.1_beta, v.1.0_alpha initial release
 ---
 
 ## ✨ Features
