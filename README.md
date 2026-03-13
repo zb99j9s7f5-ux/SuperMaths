@@ -8,11 +8,6 @@ SuperMaths adapts to your level, generates unlimited practice questions, and giv
 
 ---
 
-![Dashboard screenshot](screenshots/dashboard.png)
-> *Replace with a screenshot of the main dashboard*
-
----
-
 ## ✨ Features
 
 - **Placement Test** — A quick 10-question test that finds your starting level automatically so you begin at exactly the right place
@@ -30,22 +25,7 @@ SuperMaths adapts to your level, generates unlimited practice questions, and giv
 
 ---
 
-## 📸 Screenshots
-
-| | |
-|---|---|
-| ![Landing page](screenshots/landing.png) | ![Placement test](screenshots/placement_test.png) |
-| *Landing page* | *Placement test* |
-| ![Dashboard](screenshots/dashboard.png) | ![Quiz question](screenshots/quiz.png) |
-| *Dashboard with assignments and badges* | *Quiz question with hint* |
-| ![Practice mode](screenshots/practice.png) | ![Badge collection](screenshots/badges.png) |
-| *Free practice mode* | *Badge collection* |
-
-> Add your screenshots to a `screenshots/` folder in the repo root and update the paths above.
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ What's used:
 
 | Layer | Technology |
 |---|---|
@@ -189,8 +169,6 @@ There are 31 badges across five categories. Most are earned automatically as you
 ---
 
 ## 📄 Changelog
-
-See [RELEASE_NOTES_v1.2.md](./RELEASE_NOTES_v1.2.md) for the full v1.2 notes.
 
 | Version | Summary |
 |---|---|
