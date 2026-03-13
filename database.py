@@ -4,9 +4,8 @@ from datetime import date, datetime
 import hashlib
 import os
 
-load_dotenv("api.env")
-
-mongo = MongoClient(os.getenv("MONGO_URI"))
+MONGO_URI = st.secrets.get("MONGO_URI") or os.getenv("MONGO_URI")
+mongo = MongoClient(MONGO_URI)
 db = mongo["mathapp"]
 users = db["users"]
 progress = db["user_progress"]
@@ -109,4 +108,5 @@ def advance_level(username):
     return new_level
 
 def delete_assignments(username, level):
+
     assignments.delete_many({"username": username, "level": level})
